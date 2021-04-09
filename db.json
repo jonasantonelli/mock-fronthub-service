@@ -1469,9 +1469,9 @@
     "dependencies": []
   }
 },
-{
-  "id": "list-template-list-toggle",
-  "name": "list-template-list-toggle",
+  {
+    "id": "list-template-toggle",
+    "name": "list-template-toggle",
     "version": "1.0.0",
     "commons": {
       "version": "4.3.0",
@@ -1509,7 +1509,7 @@
     },
     "assets": [
       {
-        "path": "list-template-list-toggle@1.0.0.js",
+        "path": "list-template-toggle@1.0.0.js",
         "isChunk": true,
         "modules": 21,
         "size": 1959000,
@@ -1519,7 +1519,7 @@
         "isModuleAsset": false
       },
       {
-        "path": "list-template-list-toggle@1.0.0.js.map",
+        "path": "list-template-toggle@1.0.0.js.map",
         "isChunk": true,
         "modules": 21,
         "size": 1959000,
@@ -1539,7 +1539,7 @@
         "isModuleAsset": false
       },
       {
-        "path": "static/js/tangram-design-tokens.9280dc9b.chunk.js",
+        "path": "static/js/tangram-design-tokens.dced6805.chunk.js",
         "isChunk": true,
         "modules": 3,
         "size": 18492,
@@ -1549,7 +1549,7 @@
         "isModuleAsset": false
       },
       {
-        "path": "static/js/tangram-design-tokens.9280dc9b.chunk.js.map",
+        "path": "static/js/tangram-design-tokens.dced6805.chunk.js.map",
         "isChunk": true,
         "modules": 3,
         "size": 18492,
@@ -1569,7 +1569,7 @@
         "isModuleAsset": false
       },
       {
-        "path": "list-template-list-toggle@1.0.0.js.LICENSE.txt",
+        "path": "list-template-toggle@1.0.0.js.LICENSE.txt",
         "isChunk": false,
         "modules": 0,
         "size": 0,

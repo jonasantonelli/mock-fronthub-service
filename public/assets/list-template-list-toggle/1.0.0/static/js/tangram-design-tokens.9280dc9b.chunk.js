@@ -1,2 +1,0 @@
-(this["webpackJsonp@resultadosdigitais/list-template-list-toggle"]=this["webpackJsonp@resultadosdigitais/list-template-list-toggle"]||[]).push([[1],{25:function(t,e,s){},26:function(t,e,s){"use strict";s.r(e);var i=s(7),n=s(1),a=s(25),l=s.n(a);function o(){const t=Object(i.a)(["\n  ","\n"]);return o=function(){return t},t}const c=Object(n.createGlobalStyle)(o(),l.a);e.default=c}}]);
-//# sourceMappingURL=tangram-design-tokens.9280dc9b.chunk.js.map
