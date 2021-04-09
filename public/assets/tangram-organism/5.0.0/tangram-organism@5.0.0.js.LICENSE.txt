@@ -1,0 +1,203 @@
+/*! !raw-loader!@resultadosdigitais/tangram-design-tokens/variables.css */
+
+/*! ../ButtonBase */
+
+/*! ../helpers */
+
+/*! ./Avatar */
+
+/*! ./AvatarFallback */
+
+/*! ./Button */
+
+/*! ./ButtonBase */
+
+/*! ./CSSReset */
+
+/*! ./Column */
+
+/*! ./Container */
+
+/*! ./GlobalDesignTokens */
+
+/*! ./Grid */
+
+/*! ./IconButton */
+
+/*! ./Row */
+
+/*! ./Tag */
+
+/*! ./Text */
+
+/*! ./Theme */
+
+/*! ./config */
+
+/*! ./constant */
+
+/*! @resultadosdigitais/tangram-design-tokens */
+
+/*! @resultadosdigitais/tangram-react-icons */
+
+/*! exports provided: Container, Row, Column */
+
+/*! exports provided: Container, Row, Column, Theme, Text, CSSReset, Avatar, ButtonBase, Button, IconButton, Tag */
+
+/*! exports provided: DIMENSIONS, BASE_CONF, default */
+
+/*! exports provided: MARKETING, CRM */
+
+/*! exports provided: default */
+
+/*! exports provided: getContrastHex, convertString, KINDS, default */
+
+/*! exports provided: sizeSpacing01, sizeSpacing02, sizeSpacing03, sizeSpacing04, sizeSpacing05, sizeSpacing06, sizeSpacing07, sizeSpacing08, sizeLayout01, sizeLayout02, sizeLayout03, sizeLayout04, sizeLayout05, sizeLayout06, sizeLayout07, colorGray100, colorGray90, colorGray80, colorGray70, colorGray60, colorGray50, colorGray40, colorGray30, colorGray20, colorGray10, colorWhite, colorRed100, colorRed90, colorRed80, colorRed70, colorRed60, colorRed50, colorRed40, colorRed30, colorRed20, colorRed10, colorYellow100, colorYellow90, colorYellow80, colorYellow70, colorYellow60, colorYellow50, colorYellow40, colorYellow30, colorYellow20, colorYellow10, colorGreen100, colorGreen90, colorGreen80, colorGreen70, colorGreen60, colorGreen50, colorGreen40, colorGreen30, colorGreen20, colorGreen10, colorPurple100, colorPurple90, colorPurple80, colorPurple70, colorPurple60, colorPurple50, colorPurple40, colorPurple30, colorPurple20, colorPurple10, colorDarkBlue, colorRoyal, colorTurquoise, colorSeaGreen, colorAlabaster, colorDarkPurple, colorRoyalPurple, colorCeil, colorSteelBlue, colorAlice, colorDarkTeal, colorRoyalTeal, colorIceberg, colorPaleAqua, colorWhiteSmoke, colorBrown, colorAlloy, colorSaffron, colorFlavescent, colorCream, textFontFamily, textLineHeight, textSizeXxl, textSizeXl, textSizeLg, textSizeMd, textSizeSm, textSizeXs, textWeightRegular, textWeightSemibold, textWeightBold, fontSizeXxlBold, fontSizeXxlSemibold, fontSizeXlSemibold, fontSizeLgSemibold, fontSizeMdBold, fontSizeMdSemibold, fontSizeMdRegular, fontSizeSmBold, fontSizeSmSemibold, fontSizeSmRegular, fontSizeXsBold, fontSizeXsSemibold, fontSizeXsRegular, boxElevation24, boxElevation16, boxElevation08, boxElevation06, boxElevation04, boxElevation02, boxElevation01, borderRadiusXs, borderRadiusSm, borderRadiusMd, borderRadiusLg, borderRadiusXl, motionDurationExtraFast, motionDurationFast, motionDurationNormal, motionDurationSlow, motionDurationExtraSlow, motionTimingFunctionEaseIn, motionTimingFunctionEaseOut, motionTimingFunctionEaseInOut, breakpointXs, breakpointSm, breakpointMd, breakpointLg, breakpointXl, breakpointMax, default */
+
+/*! exports provided: sizes, colorsPallet */
+
+/*! exports provided: tokens, default */
+
+/*! no static exports found */
+
+/*! prop-types */
+
+/*! react */
+
+/*! styled-components */
+
+/*!**********************!*\
+    !*** ./src/index.js ***!
+    \**********************/
+
+/*!************************!*\
+    !*** ./src/Tag/Tag.js ***!
+    \************************/
+
+/*!************************!*\
+    !*** external "react" ***!
+    \************************/
+
+/*!*************************!*\
+    !*** ./src/Grid/Row.js ***!
+    \*************************/
+
+/*!**************************!*\
+    !*** ./src/Tag/index.js ***!
+    \**************************/
+
+/*!**************************!*\
+    !*** ./src/Text/Text.js ***!
+    \**************************/
+
+/*!***************************!*\
+    !*** ./src/Grid/index.js ***!
+    \***************************/
+
+/*!***************************!*\
+    !*** ./src/Text/index.js ***!
+    \***************************/
+
+/*!****************************!*\
+    !*** ./src/Grid/Column.js ***!
+    \****************************/
+
+/*!****************************!*\
+    !*** ./src/Grid/config.js ***!
+    \****************************/
+
+/*!****************************!*\
+    !*** ./src/Theme/Theme.js ***!
+    \****************************/
+
+/*!****************************!*\
+    !*** ./src/Theme/index.js ***!
+    \****************************/
+
+/*!*****************************!*\
+    !*** ./src/Avatar/index.js ***!
+    \*****************************/
+
+/*!*****************************!*\
+    !*** ./src/Button/index.js ***!
+    \*****************************/
+
+/*!*****************************!*\
+    !*** external "prop-types" ***!
+    \*****************************/
+
+/*!******************************!*\
+    !*** ./src/Avatar/Avatar.js ***!
+    \******************************/
+
+/*!******************************!*\
+    !*** ./src/Button/Button.js ***!
+    \******************************/
+
+/*!******************************!*\
+    !*** ./src/Text/constant.js ***!
+    \******************************/
+
+/*!******************************!*\
+    !*** ./src/helpers/index.js ***!
+    \******************************/
+
+/*!*******************************!*\
+    !*** ./src/CSSReset/index.js ***!
+    \*******************************/
+
+/*!*******************************!*\
+    !*** ./src/Grid/Container.js ***!
+    \*******************************/
+
+/*!*******************************!*\
+    !*** ./src/Theme/constant.js ***!
+    \*******************************/
+
+/*!********************************!*\
+    !*** ./src/Avatar/constant.js ***!
+    \********************************/
+
+/*!*********************************!*\
+    !*** ./src/ButtonBase/index.js ***!
+    \*********************************/
+
+/*!*********************************!*\
+    !*** ./src/IconButton/index.js ***!
+    \*********************************/
+
+/*!**********************************!*\
+    !*** ./src/CSSReset/CSSReset.js ***!
+    \**********************************/
+
+/*!************************************!*\
+    !*** ../design-tokens/es/index.js ***!
+    \************************************/
+
+/*!************************************!*\
+    !*** external "styled-components" ***!
+    \************************************/
+
+/*!**************************************!*\
+    !*** ./src/Avatar/AvatarFallback.js ***!
+    \**************************************/
+
+/*!**************************************!*\
+    !*** ./src/ButtonBase/ButtonBase.js ***!
+    \**************************************/
+
+/*!**************************************!*\
+    !*** ./src/IconButton/IconButton.js ***!
+    \**************************************/
+
+/*!*****************************************!*\
+    !*** ./src/Theme/GlobalDesignTokens.js ***!
+    \*****************************************/
+
+/*!**********************************************************!*\
+    !*** external "@resultadosdigitais/tangram-react-icons" ***!
+    \**********************************************************/
+
+/*!****************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!../design-tokens/variables.css ***!
+    \****************************************************************************/

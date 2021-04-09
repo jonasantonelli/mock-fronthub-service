@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <script>
+    !(function (t, n, e, r, o, s, c) {
+      ; (t.__fronthub__ = o),
+        (t[o] =
+          t[o] ||
+          function () {
+            ; (t[o].q = t[o].q || []).push(arguments)
+          }),
+        (s = n.createElement(e)),
+        (c = n.getElementsByTagName(e)[0]),
+        (s.async = 1),
+        (s.src = 'http://localhost:3001/assets/front-hub/3.0.19/require@3.0.19.js'),
+        c.parentNode.insertBefore(s, c)
+    })(window, document, 'script', 0, 'fronthub')
+    
+    fronthub('configure', {
+      repository: 'http://localhost:3001',
+      intl: {
+        language: 'pt-BR',
+        debug: false,
+      },
+      publicPath: () => './',
+      context: {
+        user: {
+          name: 'Jonas Antonelli',
+          email: 'jonas.antonelli@resultadosdigitais.com.br',
+          icon: '',
+          account: {
+            hasSalesGuideRollout: true,
+            monthTotalSales: 1300,
+            id: 889302,
+            trialRemainingDays: 1,
+            plan: {
+              planName: 'pro',
+              status: 'active',
+              createdAt: '2020-08-29 16:13:02 -0300',
+            },
+          },
+          isAdmin: true,
+          isFree: true,
+          impersonated: true,
+          preferences: {
+            workVision: 'open'
+          }
+        },
+        instance: {
+          path: 'conta-basic-demo',
+          psrm: 'aa'
+        },
+        notification: {
+          unreadTotal: 0
+        },
+        paths: {
+          authImpersonate: '/auth/impersonate',
+          authLogout: '/auth/logout'
+        }
+      },
+      rbac: {
+        role: function (context) {
+          function toBoolean(input) {
+            return typeof (input) === 'string' ? input === 'true' : input;
+          }
+
+          const isFree = toBoolean(context.user.isFree);
+          const isAdmin = toBoolean(context.user.isAdmin);
+
+          if (isFree && isAdmin) {
+            return 'adminFree'
+          } else if (!isFree && isAdmin) {
+            return 'adminBasic'
+          } else if (!isFree && !isAdmin) {
+            return 'userBasic'
+          } else {
+            return 'userFree'
+          }
+        },
+        permissions: {
+          accountMenu: [
+            'account',
+            'integration'
+          ],
+          primaryMenu: [
+            'crmLive',
+            'crmLiveFeature'
+          ],
+          secondaryMenu: [
+            'adminTraining'
+          ]
+        },
+        grants: {
+          userFree: [],
+          adminFree: [
+            'userFree',
+            'accountMenu:account',
+            'accountMenu:integration',
+            'primaryMenu:crmLive',
+            'secondaryMenu:adminTraining'
+          ],
+          userBasic: [
+            'userFree'
+          ],
+          adminBasic: [
+            'adminFree',
+            'userBasic',
+            'primaryMenu:crmLiveFeature'
+          ]
+        },
+      },
+      microfrontends: {
+        fetch: {
+          method: 'get',
+        },
+      },
+      "services": [{
+        "name": "data-privacy-service",
+        "endpoint": "https://app.rdstation.com.br/"
+      }]
+    })
+
+
+  </script>
+
+  <title>React webpack devstack</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <div id="microfrontend-a"></div>
+  <div id="microfrontend-b"></div>
+<script type="text/javascript" src="main.js"></script></body>
+</html>

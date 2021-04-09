@@ -1,0 +1,2 @@
+(this["webpackJsonp@resultadosdigitais/playground-b-main"]=this["webpackJsonp@resultadosdigitais/playground-b-main"]||[]).push([[1],{26:function(n,t,a){},27:function(n,t,a){"use strict";a.r(t);var i=a(6),s=a(1),e=a(26),o=a.n(e);function u(){const n=Object(i.a)(["\n  ","\n"]);return u=function(){return n},n}const c=Object(s.createGlobalStyle)(u(),o.a);t.default=c}}]);
+//# sourceMappingURL=tangram-design-tokens.fd276663.chunk.js.map

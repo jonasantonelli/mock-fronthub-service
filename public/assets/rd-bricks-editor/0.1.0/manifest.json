@@ -1,0 +1,200 @@
+{
+  "name": "rd-bricks-editor",
+  "version": "0.1.0",
+  "commons": {
+    "version": "3.0.0",
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "classnames@2.2.6",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "assets": [
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/rd-bricks-editor@0.1.0.js",
+      "isChunk": true,
+      "modules": 814,
+      "size": 4294197,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/css/main.css",
+      "isChunk": true,
+      "modules": 814,
+      "size": 4294197,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/rd-bricks-editor@0.1.0.js.map",
+      "isChunk": true,
+      "modules": 814,
+      "size": 4294197,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/css/main.css.map",
+      "isChunk": true,
+      "modules": 814,
+      "size": 4294197,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/email.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/embeddable-form.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/popup.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.89889688.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.fa277232.woff",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.1842c4e1.woff",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.565a4ea0.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.84a65f56.ttf",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.f9471b2b.eot",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icons.b3a6688f.png",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/xicons.1b97cbb1.eot",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    }
+  ],
+  "legacy": {
+    "dependencies": [
+      "react-i18next@7.13.0"
+    ]
+  }
+}

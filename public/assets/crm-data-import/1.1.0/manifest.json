@@ -1,0 +1,161 @@
+{
+  "name": "crm-data-import",
+  "version": "1.1.0",
+  "commons": {
+    "version": "3.0.0",
+    "preload": [
+      "react@16.12.0",
+      "styled-components@5.0.1",
+      "react-i18next@11.3.3",
+      "react-router-dom@5.1.2",
+      "react-dom@16.12.0",
+      "i18next@19.1.0"
+    ],
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "classnames@2.2.6",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "assets": [
+    {
+      "path": "static/css/main.c7334d10.css",
+      "isChunk": true,
+      "modules": 63,
+      "size": 387086,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "crm-data-import@1.1.0.js",
+      "isChunk": true,
+      "modules": 63,
+      "size": 387086,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "crm-data-import@1.1.0.js.map",
+      "isChunk": true,
+      "modules": 63,
+      "size": 387086,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "precache-manifest.ce6aee74ceea87e8de959e8f6cc7fb71.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "service-worker.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/main.c7334d10.css.map",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/media/deals.85826392.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "static/media/duplicate.9bcc0c9e.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "static/media/general-data.41b4d8cc.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "static/media/merge-update.90f7fe6c.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "static/media/organizations-contacts.550fdc92.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "static/media/other-tool.96f99750.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    },
+    {
+      "path": "static/media/product-service.0ad25561.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    }
+  ],
+  "legacy": {
+    "dependencies": []
+  }
+}

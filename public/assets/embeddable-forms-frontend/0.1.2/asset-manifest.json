@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e735353.css",
+    "main.js": "/embeddable-forms-frontend@0.1.2.js",
+    "main.js.map": "/embeddable-forms-frontend@0.1.2.js.map",
+    "embeddable-forms-frontend@0.1.2.js.LICENSE.txt": "/embeddable-forms-frontend@0.1.2.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "precache-manifest.dabef731abde587868c5eecc748d0c6a.js": "/precache-manifest.dabef731abde587868c5eecc748d0c6a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2e735353.css.map": "/static/css/main.2e735353.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e735353.css",
+    "embeddable-forms-frontend@0.1.2.js"
+  ]
+}

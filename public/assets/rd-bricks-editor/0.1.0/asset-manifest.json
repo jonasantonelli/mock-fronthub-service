@@ -1,0 +1,21 @@
+{
+  "main.js": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/rd-bricks-editor@0.1.0.js",
+  "main.css": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/css/main.css",
+  "main.js.map": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/rd-bricks-editor@0.1.0.js.map",
+  "main.css.map": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/css/main.css.map",
+  "email.html": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/email.html",
+  "embeddable-form.html": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/embeddable-form.html",
+  "index.html": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/index.html",
+  "popup.html": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/popup.html",
+  "static/media/glyphicons-halflings-regular.woff2": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/glyphicons-halflings-regular.svg": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/media/glyphicons-halflings-regular.ttf": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+  "static/media/glyphicons-halflings-regular.eot": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/media/glyphicons-halflings-regular.woff": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/icomoon.woff": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.1842c4e1.woff",
+  "static/media/icomoon.svg": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.565a4ea0.svg",
+  "static/media/icomoon.ttf": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.84a65f56.ttf",
+  "static/media/icomoon.eot": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icomoon.f9471b2b.eot",
+  "static/media/icons.png": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/icons.b3a6688f.png",
+  "static/media/xicons.eot": "https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/media/xicons.1b97cbb1.eot"
+}

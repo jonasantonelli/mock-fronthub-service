@@ -1,0 +1,3 @@
+{
+  "extends": ["@resultadosdigitais/eslint-config"]
+}

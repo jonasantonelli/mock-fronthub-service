@@ -1,0 +1,86 @@
+{
+  "name": "navbar-marketing",
+  "version": "1.0.50",
+  "commons": {
+    "version": "3.0.18",
+    "preload": [
+      "react@16.12.0",
+      "styled-components@5.0.1",
+      "react-i18next@11.3.3",
+      "react-router-dom@5.1.2",
+      "i18next@19.1.0",
+      "react-dom@16.12.0"
+    ],
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "axios@0.20.0",
+      "clsx@1.1.1",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-hook-form@6.11.3",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "events": {
+    "listeners": [],
+    "emitters": []
+  },
+  "assets": [
+    {
+      "path": "static/css/main.17dbbfdb.css",
+      "isChunk": true,
+      "modules": 41,
+      "size": 3641850,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "navbar-marketing@1.0.50.js",
+      "isChunk": true,
+      "modules": 41,
+      "size": 3641850,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "navbar-marketing@1.0.50.js.map",
+      "isChunk": true,
+      "modules": 41,
+      "size": 3641850,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/main.17dbbfdb.css.map",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    }
+  ],
+  "legacy": {
+    "dependencies": []
+  }
+}

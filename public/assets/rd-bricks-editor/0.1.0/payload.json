@@ -1,0 +1,33 @@
+{
+  "type": "PAGE",
+  "properties": {
+    "title": "Page title example",
+    "description": "Some page description content.",
+    "keywords": "some keywords words",
+    "enable_seo": true
+  },
+  "children": [
+    {
+      "type": "SECTION",
+      "properties": {},
+      "children": [
+        {
+          "type": "row",
+          "properties": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "SECTION",
+      "properties": {},
+      "children": [
+        {
+          "type": "row",
+          "properties": {},
+          "children": []
+        }
+      ]
+    }
+  ]
+}

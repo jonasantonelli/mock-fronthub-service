@@ -1,0 +1,81 @@
+{
+  "name": "tangram-organism",
+  "version": "5.0.0",
+  "commons": {
+    "version": "3.0.0",
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "classnames@2.2.6",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "assets": [
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/tangram-organism@5.0.0.js",
+      "isChunk": true,
+      "modules": 21,
+      "size": 432174,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/tangram-organism@5.0.0.js.map",
+      "isChunk": true,
+      "modules": 21,
+      "size": 432174,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/precache-manifest.11fb146349e850ecc0d114d7ba2542af.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/service-worker.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/tangram-organism@5.0.0.js.LICENSE.txt",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    }
+  ],
+  "legacy": {
+    "dependencies": []
+  }
+}

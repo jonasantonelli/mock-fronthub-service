@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91d50f2f.css",
+    "main.js": "/crm-navbar@1.2.0.js",
+    "main.js.map": "/crm-navbar@1.2.0.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.77fcde01ad8b16ae2093c2357bc78a8f.js": "/precache-manifest.77fcde01ad8b16ae2093c2357bc78a8f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.91d50f2f.css.map": "/static/css/main.91d50f2f.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d50f2f.css",
+    "crm-navbar@1.2.0.js"
+  ]
+}

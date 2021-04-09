@@ -1,0 +1,19 @@
+{
+  "files": {
+    "count.js": "/static/js/count.63ff3580.chunk.js",
+    "count.js.map": "/static/js/count.63ff3580.chunk.js.map",
+    "main.css": "/static/css/main.f22d0832.css",
+    "main.js": "/playground-main@1.0.0.js",
+    "main.js.map": "/playground-main@1.0.0.js.map",
+    "index.html": "/index.html",
+    "playground-main@1.0.0.js.LICENSE.txt": "/playground-main@1.0.0.js.LICENSE.txt",
+    "precache-manifest.5c760f54815113d33fd4b503d52da2fa.js": "/precache-manifest.5c760f54815113d33fd4b503d52da2fa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f22d0832.css.map": "/static/css/main.f22d0832.css.map",
+    "static/media/logo-tangram.svg": "/static/media/logo-tangram.d01fa1b5.svg"
+  },
+  "entrypoints": [
+    "static/css/main.f22d0832.css",
+    "playground-main@1.0.0.js"
+  ]
+}

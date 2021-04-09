@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.857adb16.css",
+    "main.js": "/navbar-marketing@1.0.39.js",
+    "main.js.map": "/navbar-marketing@1.0.39.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.077bc88fbdae32c07375e60f957bf2cc.js": "/precache-manifest.077bc88fbdae32c07375e60f957bf2cc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.857adb16.css.map": "/static/css/main.857adb16.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.857adb16.css",
+    "navbar-marketing@1.0.39.js"
+  ]
+}

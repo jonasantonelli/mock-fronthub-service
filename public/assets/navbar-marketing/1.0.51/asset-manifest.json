@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17dbbfdb.css",
+    "main.js": "/navbar-marketing@1.0.51.js",
+    "main.js.map": "/navbar-marketing@1.0.51.js.map",
+    "index.html": "/index.html",
+    "static/css/main.17dbbfdb.css.map": "/static/css/main.17dbbfdb.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.17dbbfdb.css",
+    "navbar-marketing@1.0.51.js"
+  ]
+}

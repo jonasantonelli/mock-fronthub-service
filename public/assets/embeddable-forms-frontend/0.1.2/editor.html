@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Form Editor</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif|Lato|Lobster|Open+Sans|Oswald|PT+Sans|Raleway|Source+Sans+Pro|Ubuntu|Roboto" rel="stylesheet">
+    <link rel="stylesheet" media="screen" href="https://d3ndvx6e67vt0s.cloudfront.net/assets/application-8750c260d440e84bb043a553ca96f203a66e407c030446c6bb1e8c3c923652d1.css"/>
+    <style type="text/css">
+        #ads { display: none; }
+    </style>
+</head>
+<body>
+<noscript>
+    You need to enable JavaScript to run this app.
+</noscript>
+<div id="app"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/shadydom/1.1.0/shadydom.min.js"></script>
+<script type="text/javascript" src="https://production-us-bricks-editor.storage.googleapis.com/static/js/build.2020-5-27-19-25-7.js"></script>
+
+<script type="text/javascript">
+  var config = {
+    sidebar: {
+      components: ["SECTION", "ROW", "COLUMN", "TEXT", "BOX", "BUTTON", "IMAGE", "HTML"],
+      settings: ["EMBEDDABLE_FORM"],
+    },
+    components: {
+      column: {
+        background: {
+          canHaveParallax: false,
+        },
+      },
+      section: {
+        background: {
+          canHaveParallax: false,
+        },
+      },
+      box: {
+        background: {
+          canHaveParallax: false,
+        },
+      },
+    },
+    preview: {
+      hiddenComponents: ["CAPTCHA_FIELD"]
+    },
+    onFileUpload: function onFileUpload(done) {
+      window.parent.RD.openUploadDialog(function onReceiveFileData(data) {
+        done(data.url);
+      });
+    },
+    onImageUpload: function onImageUpload(done) {
+      window.parent.RD.openUploadDialog(function onReceiveImageData(data) {
+        done(data.url);
+      });
+    },
+    onEditFormFields: function onEditFormFields(done) {
+      window.parent.formEditor.editFormFields(window.parent.embeddableId, false, function onApplyChanges(data) {
+        done(data);
+      });
+    },
+    locale: 'pt-BR',
+    enabledFeatures: ['placeholder'],
+  };
+
+  var editor = new BricksEditor(config).render('#app');
+  window.parent.bricksEditor = editor;
+</script>
+</body>
+</html>

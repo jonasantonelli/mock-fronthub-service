@@ -1,0 +1,2 @@
+(this["webpackJsonp@resultadosdigitais/mfe-react-profiler-main"]=this["webpackJsonp@resultadosdigitais/mfe-react-profiler-main"]||[]).push([[1],{26:function(t,e,a){},27:function(t,e,a){"use strict";a.r(e);var n=a(6),c=a(1),i=a(26),r=a.n(i);function _templateObject(){const t=Object(n.a)(["\n  ","\n"]);return _templateObject=function(){return t},t}const s=Object(c.createGlobalStyle)(_templateObject(),r.a);e.default=s}}]);
+//# sourceMappingURL=tangram-design-tokens.2cea0ebc.chunk.js.map

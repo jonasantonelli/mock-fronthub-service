@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7334d10.css",
+    "main.js": "/crm-data-import@1.1.0.js",
+    "main.js.map": "/crm-data-import@1.1.0.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ce6aee74ceea87e8de959e8f6cc7fb71.js": "/precache-manifest.ce6aee74ceea87e8de959e8f6cc7fb71.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c7334d10.css.map": "/static/css/main.c7334d10.css.map",
+    "static/media/deals.svg": "/static/media/deals.85826392.svg",
+    "static/media/duplicate.svg": "/static/media/duplicate.9bcc0c9e.svg",
+    "static/media/general-data.svg": "/static/media/general-data.41b4d8cc.svg",
+    "static/media/merge-update.svg": "/static/media/merge-update.90f7fe6c.svg",
+    "static/media/organizations-contacts.svg": "/static/media/organizations-contacts.550fdc92.svg",
+    "static/media/other-tool.svg": "/static/media/other-tool.96f99750.svg",
+    "static/media/product-service.svg": "/static/media/product-service.0ad25561.svg"
+  },
+  "entrypoints": [
+    "static/css/main.c7334d10.css",
+    "crm-data-import@1.1.0.js"
+  ]
+}

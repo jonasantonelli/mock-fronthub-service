@@ -1,0 +1,2 @@
+(this["webpackJsonp@resultadosdigitais/playground-c-main"]=this["webpackJsonp@resultadosdigitais/playground-c-main"]||[]).push([[1],{IdZr:function(t,n,a){},XM5a:function(t,n,a){"use strict";a.r(n);var i=a("h4VS"),s=a("Dtiu"),c=a("IdZr"),r=a.n(c);function u(){const t=Object(i.a)(["\n  ","\n"]);return u=function(){return t},t}const e=Object(s.createGlobalStyle)(u(),r.a);n.default=e}}]);
+//# sourceMappingURL=tangram-design-tokens.44438cf8.chunk.js.map

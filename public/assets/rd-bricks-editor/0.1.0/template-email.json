@@ -1,0 +1,271 @@
+{
+  "type": "email",
+  "properties": {
+    "lang": "pt-BR",
+    "width": 600,
+    "isFluid": false,
+    "background": {
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "section": {
+        "background": {
+          "color": "transparent",
+          "type": "transparent"
+        }
+      },
+      "column": {
+        "background": {
+          "color": "transparent",
+          "type": "transparent"
+        },
+        "padding": {
+          "top": 0,
+          "right": 10,
+          "bottom": 0,
+          "left": 10
+        }
+      },
+      "emailHeader": {
+        "margin": {
+          "top": 10,
+          "bottom": 10
+        }
+      },
+      "title": "Titulo"
+    },
+    "footer": {
+      "section": {
+        "background": {
+          "color": "transparent",
+          "type": "transparent"
+        }
+      },
+      "column": {
+        "background": {
+          "color": "transparent",
+          "type": "transparent"
+        },
+        "padding": {
+          "top": 0,
+          "right": 10,
+          "bottom": 0,
+          "left": 10
+        }
+      },
+      "signature": {
+        "margin": {
+          "top": 10,
+          "bottom": 10
+        },
+        "owner": "Atomic Inc",
+        "address": "Rod. Virgilio Varzea",
+        "unsubscribe": "Se deseja não receber mais mensagens como esta, "
+      }
+    },
+    "title": "Page title example"
+  },
+  "children": [
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "rgba(227,255,168,1)",
+          "cover": false,
+          "type": "color",
+          "url": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#000000",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 1
+        },
+        "id": "rd-section-jwc4ccg7",
+        "className": "rd-section"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-jwc4ccga",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 10,
+                  "bottom": 0,
+                  "left": 10
+                },
+                "size": 12,
+                "id": "rd-column-jwc4ccgb",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text_email",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<h2><span style=\"font-size: 36px;\">The best email ever</span></h2>",
+                    "width": 331,
+                    "id": "rd-text-jwc4gf2a",
+                    "className": "rd-text",
+                    "height": "auto-39"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "transparent",
+          "cover": false,
+          "type": "transparent",
+          "url": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#000000",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 1
+        },
+        "id": "rd-footer-joq3m2za",
+        "className": "rd-footer"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-jx2c9wr9",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 0,
+                  "bottom": 0,
+                  "left": 0
+                },
+                "size": 12,
+                "id": "rd-column-jx2c9wra",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text_and_image",
+                  "properties": {
+                    "align": "center",
+                    "height": 100,
+                    "width": 200,
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "id": "rd-text_and_image-k5707jho",
+                    "className": "rd-text_and_image"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

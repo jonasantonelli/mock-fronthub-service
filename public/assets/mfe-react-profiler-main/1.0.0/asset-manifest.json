@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/mfe-react-profiler-main@1.0.0.js",
+    "main.js.map": "/mfe-react-profiler-main@1.0.0.js.map",
+    "tangram-design-tokens.css": "/static/css/tangram-design-tokens.99fcdb35.chunk.css",
+    "tangram-design-tokens.js": "/static/js/tangram-design-tokens.2cea0ebc.chunk.js",
+    "tangram-design-tokens.js.map": "/static/js/tangram-design-tokens.2cea0ebc.chunk.js.map",
+    "index.html": "/index.html",
+    "mfe-react-profiler-main@1.0.0.js.LICENSE.txt": "/mfe-react-profiler-main@1.0.0.js.LICENSE.txt",
+    "precache-manifest.bf53851e130490e11f9a40f30ff1b639.js": "/precache-manifest.bf53851e130490e11f9a40f30ff1b639.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/tangram-design-tokens.99fcdb35.chunk.css.map": "/static/css/tangram-design-tokens.99fcdb35.chunk.css.map",
+    "static/media/logo-tangram.svg": "/static/media/logo-tangram.d01fa1b5.svg"
+  },
+  "entrypoints": [
+    "mfe-react-profiler-main@1.0.0.js"
+  ]
+}

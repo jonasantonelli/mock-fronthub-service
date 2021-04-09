@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.857adb16.css",
+    "main.js": "/accounts-frontend-login@0.1.0.js",
+    "main.js.map": "/accounts-frontend-login@0.1.0.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85301f1773da078d7520fc2bded2851d.js": "/precache-manifest.85301f1773da078d7520fc2bded2851d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.857adb16.css.map": "/static/css/main.857adb16.css.map",
+    "static/media/logo-rdstation.svg": "/static/media/logo-rdstation.aed99693.svg"
+  },
+  "entrypoints": [
+    "static/css/main.857adb16.css",
+    "accounts-frontend-login@0.1.0.js"
+  ]
+}

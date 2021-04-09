@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/tangram-organism@5.0.0.js",
+    "main.js.map": "/tangram-organism@5.0.0.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.11fb146349e850ecc0d114d7ba2542af.js": "/precache-manifest.11fb146349e850ecc0d114d7ba2542af.js",
+    "service-worker.js": "/service-worker.js",
+    "tangram-organism@5.0.0.js.LICENSE.txt": "/tangram-organism@5.0.0.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "tangram-organism@5.0.0.js"
+  ]
+}

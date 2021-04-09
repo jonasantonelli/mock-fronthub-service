@@ -1,0 +1,385 @@
+{
+  "type": "popup",
+  "properties": {
+    "width": 700,
+    "height": 1,
+    "border": {
+      "bottom": true,
+      "color": "#BBBBBB",
+      "left": true,
+      "radius": 3,
+      "right": true,
+      "style": "solid",
+      "top": true,
+      "width": 1
+    },
+    "background": {
+      "color": "#FFFFFF",
+      "cover": false,
+      "type": "transparent",
+      "url": "",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "imageOrder": "below",
+      "imageColor": "rgba(74,144,226,0)"
+    },
+    "overlay": "#000000"
+  },
+  "children": [
+    {
+      "type": "close_button",
+      "properties": {
+        "color": "purple",
+        "position": {
+          "top": 5,
+          "right": 5
+        }
+      },
+      "children": []
+    },
+    {
+      "type": "popup_content",
+      "properties": {},
+      "children": [
+        {
+          "type": "section",
+          "properties": {
+            "background": {
+              "color": "#ffffff",
+              "cover": false,
+              "type": "color",
+              "url": "",
+              "position": {
+                "x": 0,
+                "y": 0
+              },
+              "imageOrder": "below",
+              "imageColor": "rgba(74,144,226,0)"
+            },
+            "border": {
+              "bottom": true,
+              "color": "#000000",
+              "left": false,
+              "radius": 0,
+              "right": false,
+              "style": "none",
+              "top": true,
+              "width": 1
+            }
+          },
+          "children": [
+            {
+              "type": "row",
+              "properties": {
+                "padding": {
+                  "top": 7,
+                  "right": 7,
+                  "bottom": 7,
+                  "left": 7
+                },
+                "minHeight": 50
+              },
+              "children": [
+                {
+                  "type": "column",
+                  "properties": {
+                    "alignInside": {
+                      "vertical": "top"
+                    },
+                    "background": {
+                      "color": "#ffffff",
+                      "cover": false,
+                      "type": "color",
+                      "url": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "imageOrder": "below",
+                      "imageColor": "rgba(74,144,226,0)"
+                    },
+                    "padding": {
+                      "top": 7,
+                      "right": 7,
+                      "bottom": 7,
+                      "left": 7
+                    },
+                    "size": 7,
+                    "border": {
+                      "top": true,
+                      "left": false,
+                      "color": "#000000",
+                      "right": false,
+                      "style": "none",
+                      "width": 1,
+                      "bottom": true,
+                      "radius": 0
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "properties": {
+                        "align": "center",
+                        "border": {
+                          "bottom": false,
+                          "color": "transparent",
+                          "left": false,
+                          "radius": 0,
+                          "right": false,
+                          "style": "none",
+                          "top": false,
+                          "width": 0
+                        },
+                        "margin": {
+                          "top": 30,
+                          "bottom": 15
+                        },
+                        "content": "<h1 style=\"text-align: left; line-height: 48px;\"><strong style=\"font-size: 36px; font-family: Lato, sans-serif; color: rgb(184, 53, 158);\">Get your free eBook!</strong></h1>",
+                        "width": 353,
+                        "height": "auto"
+                      },
+                      "children": []
+                    },
+                    {
+                      "type": "text",
+                      "properties": {
+                        "align": "center",
+                        "border": {
+                          "bottom": false,
+                          "color": "transparent",
+                          "left": false,
+                          "radius": 0,
+                          "right": false,
+                          "style": "none",
+                          "top": false,
+                          "width": 0
+                        },
+                        "margin": {
+                          "top": 0,
+                          "bottom": 10
+                        },
+                        "content": "<h4 style=\"text-align: left;\"><span style=\"font-size: 16px; font-family: &quot;Open Sans&quot;, sans-serif;\">Please fill in your details below to receive the free material</span></h4>",
+                        "width": 353,
+                        "height": "auto"
+                      },
+                      "children": []
+                    },
+                    {
+                      "type": "form",
+                      "properties": {
+                        "align": "center",
+                        "margin": {
+                          "top": 15,
+                          "bottom": 30
+                        },
+                        "labels": {
+                          "disabled": false,
+                          "font": {
+                            "bold": false,
+                            "color": "#4a4a4a",
+                            "family": "Open Sans, sans-serif",
+                            "italic": false,
+                            "size": 14
+                          },
+                          "section": "labels"
+                        },
+                        "fields": {
+                          "font": {
+                            "bold": false,
+                            "italic": false,
+                            "color": "#000000",
+                            "family": "Open Sans, sans-serif",
+                            "size": 16
+                          },
+                          "background": {
+                            "color": "#f4f4f4",
+                            "cover": false,
+                            "type": "transparent",
+                            "url": "",
+                            "position": {
+                              "x": 0,
+                              "y": 0
+                            },
+                            "imageOrder": "below",
+                            "imageColor": "rgba(74,144,226,0)"
+                          },
+                          "border": {
+                            "bottom": true,
+                            "color": "#d6d6d6",
+                            "left": true,
+                            "radius": 3,
+                            "right": true,
+                            "style": "solid",
+                            "top": true,
+                            "width": 1
+                          },
+                          "shadow": {
+                            "inner": false
+                          },
+                          "columns": 1,
+                          "height": 38,
+                          "spacing": 5,
+                          "section": "fields"
+                        },
+                        "width": 353,
+                        "height": "auto"
+                      },
+                      "children": [
+                        {
+                          "type": "fieldset",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text_field",
+                              "properties": {
+                                "id": "form-name",
+                                "name": "name",
+                                "label": "Name",
+                                "required": true
+                              },
+                              "children": []
+                            },
+                            {
+                              "type": "email_field",
+                              "properties": {
+                                "id": "form-email",
+                                "name": "email",
+                                "label": "Email",
+                                "required": true
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "button",
+                          "properties": {
+                            "align": "center",
+                            "margin": {
+                              "top": 15,
+                              "bottom": 15
+                            },
+                            "background": {
+                              "color": "#B8359E"
+                            },
+                            "border": {
+                              "bottom": true,
+                              "color": "#000000",
+                              "left": true,
+                              "radius": 31,
+                              "right": true,
+                              "style": "none",
+                              "top": true,
+                              "width": 0
+                            },
+                            "height": 50,
+                            "label": "Get free eBook now!",
+                            "font": {
+                              "bold": false,
+                              "color": "#FFFFFF",
+                              "family": "Open Sans, sans-serif",
+                              "italic": false,
+                              "size": 22
+                            },
+                            "link": {
+                              "type": "web",
+                              "href": "http://example.com",
+                              "target": "_blank",
+                              "title": "Any Title"
+                            },
+                            "type": "submit",
+                            "width": 327,
+                            "position": {
+                              "x": 0,
+                              "y": 330,
+                              "z": 1
+                            }
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "properties": {
+                    "alignInside": {
+                      "vertical": "middle"
+                    },
+                    "background": {
+                      "color": "#f4f4f4",
+                      "cover": false,
+                      "type": "color",
+                      "url": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "imageOrder": "below",
+                      "imageColor": "rgba(74,144,226,0)"
+                    },
+                    "padding": {
+                      "top": 0,
+                      "right": 10,
+                      "bottom": 0,
+                      "left": 10
+                    },
+                    "size": 5,
+                    "border": {
+                      "top": true,
+                      "left": false,
+                      "color": "#000000",
+                      "right": false,
+                      "style": "none",
+                      "width": 1,
+                      "bottom": true,
+                      "radius": 0
+                    }
+                  },
+                  "children": [
+                    {
+                      "type": "image",
+                      "properties": {
+                        "align": "center",
+                        "border": {
+                          "bottom": true,
+                          "color": "#000000",
+                          "left": true,
+                          "radius": 0,
+                          "right": true,
+                          "style": "none",
+                          "top": true,
+                          "width": 1
+                        },
+                        "margin": {
+                          "top": 7,
+                          "bottom": 7
+                        },
+                        "height": 360,
+                        "width": 250,
+                        "aspectRatioLocked": true,
+                        "url": "https://d335luupugsy2.cloudfront.net/cms/files/50038/1540839338/$voz7o6qs4h",
+                        "description": "",
+                        "link": {
+                          "href": "",
+                          "title": "",
+                          "target": "",
+                          "enabled": false
+                        }
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

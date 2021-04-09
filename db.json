@@ -1,0 +1,1608 @@
+{
+  "microfrontends": [
+    {
+      "name": "crm-data-import",
+      "id": "crm-data-import",
+      "version": "1.1.0",
+      "commons": {
+        "version": "3.0.0",
+        "preload": [
+          "react@16.12.0",
+          "styled-components@5.0.1",
+          "react-i18next@11.3.3",
+          "react-router-dom@5.1.2",
+          "react-dom@16.12.0",
+          "i18next@19.1.0"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "classnames@2.2.6",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "assets": [
+        {
+          "path": "static/css/main.c7334d10.css",
+          "isChunk": true,
+          "modules": 63,
+          "size": 387094,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "crm-data-import@1.1.0.js",
+          "isChunk": true,
+          "modules": 63,
+          "size": 387094,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "crm-data-import@1.1.0.js.map",
+          "isChunk": true,
+          "modules": 63,
+          "size": 387094,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "precache-manifest.6b74dc32c398e25d4eb65f678fe67357.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/main.c7334d10.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/media/deals.85826392.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "static/media/duplicate.9bcc0c9e.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "static/media/general-data.41b4d8cc.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "static/media/merge-update.90f7fe6c.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "static/media/organizations-contacts.550fdc92.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "static/media/other-tool.96f99750.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "static/media/product-service.0ad25561.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+    {
+      "id": "embeddable-forms-frontend",
+      "name": "embeddable-forms-frontend",
+      "version": "0.1.2",
+      "commons": {
+        "version": "3.0.0",
+        "preload": [
+          "react@16.12.0",
+          "classnames@2.2.6",
+          "react-dom@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "react-is@16.12.0",
+          "i18next@19.1.0",
+          "react-dom@16.12.0/server",
+          "react-i18next@11.3.3"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "classnames@2.2.6",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "assets": [
+        {
+          "path": "static/css/main.2e735353.css",
+          "isChunk": true,
+          "modules": 496,
+          "size": 1732836,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "embeddable-forms-frontend@0.1.2.js",
+          "isChunk": true,
+          "modules": 496,
+          "size": 1732836,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "embeddable-forms-frontend@0.1.2.js.map",
+          "isChunk": true,
+          "modules": 496,
+          "size": 1732836,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "embeddable-forms-frontend@0.1.2.js.LICENSE.txt",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "precache-manifest.a31108419f926b6451d016254be1220d.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/main.2e735353.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "accounts-frontend-login",
+      "id": "accounts-frontend-login",
+      "version": "0.1.0",
+      "commons": {
+        "version": "3.0.0",
+        "preload": [
+          "react@16.12.0",
+          "styled-components@5.0.1",
+          "react-i18next@11.3.3",
+          "react-dom@16.12.0",
+          "react-router-dom@5.1.2",
+          "i18next@19.1.0"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "classnames@2.2.6",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "assets": [
+        {
+          "path": "./static/css/main.857adb16.css",
+          "isChunk": true,
+          "modules": 76,
+          "size": 235149,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./accounts-frontend-login@0.1.0.js",
+          "isChunk": true,
+          "modules": 76,
+          "size": 235149,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./accounts-frontend-login@0.1.0.js.map",
+          "isChunk": true,
+          "modules": 76,
+          "size": 235149,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./precache-manifest.8c54e05c68182ccfc964e1ca92bf045e.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./static/css/main.857adb16.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./static/media/logo-rdstation.aed99693.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "crm-navbar",
+      "id": "crm-navbar",
+      "version": "1.2.0",
+      "commons": {
+        "version": "3.0.0",
+        "preload": [
+          "react@16.12.0",
+          "styled-components@5.0.1",
+          "react-i18next@11.3.3",
+          "react-router-dom@5.1.2",
+          "react-dom@16.12.0",
+          "i18next@19.1.0"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "classnames@2.2.6",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "assets": [
+        {
+          "path": "./static/css/main.91d50f2f.css",
+          "isChunk": true,
+          "modules": 104,
+          "size": 1013733,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./crm-navbar@1.2.0.js",
+          "isChunk": true,
+          "modules": 104,
+          "size": 1013733,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./crm-navbar@1.2.0.js.map",
+          "isChunk": true,
+          "modules": 104,
+          "size": 1013733,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./precache-manifest.77fcde01ad8b16ae2093c2357bc78a8f.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./static/css/main.91d50f2f.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        }
+      ],
+      "legacy": {
+        "dependencies": [
+          "regenerator-runtime@0.13.5"
+        ]
+      }
+    },
+    {
+      "id": "navbar-marketing",
+      "name": "navbar-marketing",
+      "version": "1.0.51",
+      "commons": {
+        "version": "3.0.18",
+        "preload": [
+          "react@16.12.0",
+          "styled-components@5.0.1",
+          "react-i18next@11.3.3",
+          "react-router-dom@5.1.2",
+          "i18next@19.1.0",
+          "react-dom@16.12.0"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "axios@0.20.0",
+          "clsx@1.1.1",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-hook-form@6.11.3",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "events": {
+        "listeners": [],
+        "emitters": []
+      },
+      "assets": [
+        {
+          "path": "static/css/main.17dbbfdb.css",
+          "isChunk": true,
+          "modules": 41,
+          "size": 3642080,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "navbar-marketing@1.0.51.js",
+          "isChunk": true,
+          "modules": 41,
+          "size": 3642080,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "navbar-marketing@1.0.51.js.map",
+          "isChunk": true,
+          "modules": 41,
+          "size": 3642080,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/main.17dbbfdb.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "basic-analytics-frontend",
+      "id": "basic-analytics-frontend",
+      "version": "1.1.12",
+      "commons": {
+        "version": "3.0.0",
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "classnames@2.2.6",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "assets": [
+        {
+          "path": "./basic-analytics-frontend@1.1.12.js",
+          "isChunk": true,
+          "modules": 551,
+          "size": 2114567,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./favicon.ico",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "./index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+    {
+      "id": "rd-bricks-editor",
+      "name": "rd-bricks-editor",
+      "version": "0.1.0",
+      "commons": {
+        "version": "1.0.0",
+        "dependencies": [
+          "react@16.12.0",
+          "classnames@2.2.6",
+          "react-dom@16.12.0",
+          "redux@4.0.5",
+          "react-is@16.12.0",
+          "i18next@19.1.0",
+          "react-router-dom@5.1.2",
+          "react-dom@16.12.0/server"
+        ]
+      },
+      "assets": [
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/rd-bricks-editor@0.1.0.js",
+          "isChunk": true,
+          "modules": 761,
+          "size": 4168334,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/css/main.css",
+          "isChunk": true,
+          "modules": 761,
+          "size": 4168334,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/rd-bricks-editor@0.1.0.js.map",
+          "isChunk": true,
+          "modules": 761,
+          "size": 4168334,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/css/main.css.map",
+          "isChunk": true,
+          "modules": 761,
+          "size": 4168334,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/asset-manifest.json",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/email.html",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/embeddable-form.html",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/index.html",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/popup.html",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.89889688.svg",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/glyphicons-halflings-regular.fa277232.woff",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/icomoon.1842c4e1.woff",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/icomoon.565a4ea0.svg",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/icomoon.84a65f56.ttf",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/icomoon.f9471b2b.eot",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/icons.b3a6688f.png",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/static/media/xicons.1b97cbb1.eot",
+          "isChunk": false,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        }
+      ],
+      "legacy": {
+        "dependencies": [
+          {
+            "react-i18next": "7.13.0"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tangram-organism",
+      "id": "tangram-organism",
+      "version": "5.0.0",
+      "commons": {
+        "version": "3.0.0",
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "classnames@2.2.6",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "assets": [
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/tangram-organism@5.0.0.js",
+          "isChunk": true,
+          "modules": 20,
+          "size": 431575,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/tangram-organism@5.0.0.js.map",
+          "isChunk": true,
+          "modules": 20,
+          "size": 431575,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/precache-manifest.67c9111ebfa7f297513b7f8f3bb3f43c.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "http://localhost:3000/static/rd-bricks-editor/0.1.0/https://front-hub-staging.rdstation.com.br/static/tangram-organism/5.0.0/tangram-organism@5.0.0.js.LICENSE.txt",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+
+
+    {
+      "id": "playground-b-main",
+      "name": "playground-b-main",
+      "version": "1.0.0",
+      "commons": {
+        "version": "3.0.18",
+        "preload": [
+          "react@16.12.0",
+          "styled-components@5.0.1",
+          "react-i18next@11.3.3",
+          "react-router-dom@5.1.2",
+          "i18next@19.1.0",
+          "react-dom@16.12.0"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "axios@0.20.0",
+          "clsx@1.1.1",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-hook-form@6.11.3",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "events": {
+        "listeners": [],
+        "emitters": []
+      },
+      "assets": [
+        {
+          "path": "playground-b-main@1.0.0.js",
+          "isChunk": true,
+          "modules": 22,
+          "size": 1303210,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "playground-b-main@1.0.0.js.map",
+          "isChunk": true,
+          "modules": 22,
+          "size": 1303210,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/jonas-tangram-design-tokens.2d16d898.chunk.css",
+          "isChunk": true,
+          "modules": 3,
+          "size": 18492,
+          "isInitial": false,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/js/tangram-design-tokens.fd276663.chunk.js",
+          "isChunk": true,
+          "modules": 3,
+          "size": 18492,
+          "isInitial": false,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/js/tangram-design-tokens.fd276663.chunk.js.map",
+          "isChunk": true,
+          "modules": 3,
+          "size": 18492,
+          "isInitial": false,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "precache-manifest.32ef6cf308185d144120d6e0b3f067a3.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/tangram-design-tokens.2d16d898.chunk.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/media/logo-tangram.d01fa1b5.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+
+    {
+      "id": "playground-c-main",
+      "name": "playground-c-main",
+      "version": "1.0.0",
+      "commons": {
+        "version": "3.0.18",
+        "preload": [
+          "styled-components@5.0.1",
+          "react-i18next@11.3.3",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "i18next@19.1.0",
+          "react-router-dom@5.1.2"
+        ],
+        "dependencies": [
+          "react-dom@16.12.0/server",
+          "axios@0.20.0",
+          "clsx@1.1.1",
+          "i18next@19.1.0",
+          "numeral@2.0.6",
+          "react@16.12.0",
+          "react-dom@16.12.0",
+          "react-hook-form@6.11.3",
+          "react-i18next@11.3.3",
+          "react-is@16.12.0",
+          "react-router-dom@5.1.2",
+          "redux@4.0.5",
+          "regenerator-runtime@0.13.3",
+          "styled-components@5.0.1",
+          "uuid@3.4.0"
+        ]
+      },
+      "events": {
+        "listeners": [],
+        "emitters": []
+      },
+      "assets": [
+        {
+          "path": "playground-c-main@1.0.0.js",
+          "isChunk": true,
+          "modules": 22,
+          "size": 1302410,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "playground-c-main@1.0.0.js.map",
+          "isChunk": true,
+          "modules": 22,
+          "size": 1302410,
+          "isInitial": true,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/tangram-design-tokens.2d16d898.chunk.css",
+          "isChunk": true,
+          "modules": 3,
+          "size": 18492,
+          "isInitial": false,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/js/tangram-design-tokens.44438cf8.chunk.js",
+          "isChunk": true,
+          "modules": 3,
+          "size": 18492,
+          "isInitial": false,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/js/tangram-design-tokens.44438cf8.chunk.js.map",
+          "isChunk": true,
+          "modules": 3,
+          "size": 18492,
+          "isInitial": false,
+          "isAsset": false,
+          "isModuleAsset": false
+        },
+        {
+          "path": "index.html",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "precache-manifest.f0fd6e13d8998b63e24c04e582b09307.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "service-worker.js",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/css/tangram-design-tokens.2d16d898.chunk.css.map",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": false
+        },
+        {
+          "path": "static/media/logo-tangram.d01fa1b5.svg",
+          "isChunk": false,
+          "modules": 0,
+          "size": 0,
+          "isInitial": false,
+          "isAsset": true,
+          "isModuleAsset": true
+        }
+      ],
+      "legacy": {
+        "dependencies": []
+      }
+    },
+
+  {
+  "id": "playground-main",
+  "name": "playground-main",
+  "version": "1.0.0",
+  "commons": {
+    "version": "3.0.19",
+    "preload": [
+      "react@16.12.0",
+      "styled-components@5.0.1",
+      "react-i18next@11.3.3",
+      "react-router-dom@5.1.2",
+      "i18next@19.1.0",
+      "react-dom@16.12.0"
+    ],
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "axios@0.21.1",
+      "clsx@1.1.1",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-hook-form@6.11.3",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "events": {
+    "listeners": [],
+    "emitters": []
+  },
+  "assets": [
+    {
+      "path": "static/js/count.63ff3580.chunk.js",
+      "isChunk": true,
+      "modules": 1,
+      "size": 12933,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/js/count.63ff3580.chunk.js.map",
+      "isChunk": true,
+      "modules": 1,
+      "size": 12933,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/main.f22d0832.css",
+      "isChunk": true,
+      "modules": 31,
+      "size": 2004140,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "playground-main@1.0.0.js",
+      "isChunk": true,
+      "modules": 31,
+      "size": 2004140,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "playground-main@1.0.0.js.map",
+      "isChunk": true,
+      "modules": 31,
+      "size": 2004140,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "playground-main@1.0.0.js.LICENSE.txt",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "precache-manifest.5c760f54815113d33fd4b503d52da2fa.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "service-worker.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/main.f22d0832.css.map",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/media/logo-tangram.d01fa1b5.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    }
+  ],
+  "legacy": {
+    "dependencies": []
+  }
+},
+{
+  "id": "mfe-react-profiler-main",
+  "name": "mfe-react-profiler-main",
+  "version": "1.0.0",
+  "commons": {
+    "version": "3.0.20",
+    "preload": [
+      "react@16.12.0",
+      "styled-components@5.0.1",
+      "react-i18next@11.3.3",
+      "react-router-dom@5.1.2",
+      "i18next@19.1.0",
+      "react-dom@16.12.0"
+    ],
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "axios@0.21.1",
+      "clsx@1.1.1",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-hook-form@6.11.3",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "events": {
+    "listeners": [],
+    "emitters": []
+  },
+  "assets": [
+    {
+      "path": "mfe-react-profiler-main@1.0.0.js",
+      "isChunk": true,
+      "modules": 22,
+      "size": 1901960,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "mfe-react-profiler-main@1.0.0.js.map",
+      "isChunk": true,
+      "modules": 22,
+      "size": 1901960,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/tangram-design-tokens.99fcdb35.chunk.css",
+      "isChunk": true,
+      "modules": 3,
+      "size": 18492,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/js/tangram-design-tokens.2cea0ebc.chunk.js",
+      "isChunk": true,
+      "modules": 3,
+      "size": 18492,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/js/tangram-design-tokens.2cea0ebc.chunk.js.map",
+      "isChunk": true,
+      "modules": 3,
+      "size": 18492,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "mfe-react-profiler-main@1.0.0.js.LICENSE.txt",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "precache-manifest.bf53851e130490e11f9a40f30ff1b639.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "service-worker.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/tangram-design-tokens.99fcdb35.chunk.css.map",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/media/logo-tangram.d01fa1b5.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": true
+    }
+  ],
+  "legacy": {
+    "dependencies": []
+  }
+},
+{
+  "id": "list-template-list-toggle",
+  "name": "list-template-list-toggle",
+    "version": "1.0.0",
+    "commons": {
+      "version": "4.3.0",
+      "preload": [
+        "react@17.0.1",
+        "styled-components@5.2.1",
+        "react@17.0.1/jsx-runtime",
+        "react-i18next@11.8.5",
+        "react-router-dom@5.2.0",
+        "i18next@19.8.4",
+        "react-dom@17.0.1"
+      ],
+      "dependencies": [
+        "react@17.0.1/jsx-runtime",
+        "react-dom@17.0.1/server",
+        "axios@0.21.1",
+        "clsx@1.1.1",
+        "i18next@19.8.4",
+        "numeral@2.0.6",
+        "react@17.0.1",
+        "react-dom@17.0.1",
+        "react-hook-form@6.14.0",
+        "react-i18next@11.8.5",
+        "react-is@17.0.1",
+        "react-router-dom@5.2.0",
+        "redux@4.0.5",
+        "regenerator-runtime@0.13.3",
+        "styled-components@5.2.1",
+        "uuid@3.4.0"
+      ]
+    },
+    "events": {
+      "listeners": [],
+      "emitters": []
+    },
+    "assets": [
+      {
+        "path": "list-template-list-toggle@1.0.0.js",
+        "isChunk": true,
+        "modules": 21,
+        "size": 1959000,
+        "isInitial": true,
+        "initialLoad": true,
+        "isAsset": false,
+        "isModuleAsset": false
+      },
+      {
+        "path": "list-template-list-toggle@1.0.0.js.map",
+        "isChunk": true,
+        "modules": 21,
+        "size": 1959000,
+        "isInitial": true,
+        "initialLoad": true,
+        "isAsset": false,
+        "isModuleAsset": false
+      },
+      {
+        "path": "static/css/tangram-design-tokens.4d94b0b3.chunk.css",
+        "isChunk": true,
+        "modules": 3,
+        "size": 18492,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": false,
+        "isModuleAsset": false
+      },
+      {
+        "path": "static/js/tangram-design-tokens.9280dc9b.chunk.js",
+        "isChunk": true,
+        "modules": 3,
+        "size": 18492,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": false,
+        "isModuleAsset": false
+      },
+      {
+        "path": "static/js/tangram-design-tokens.9280dc9b.chunk.js.map",
+        "isChunk": true,
+        "modules": 3,
+        "size": 18492,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": false,
+        "isModuleAsset": false
+      },
+      {
+        "path": "index.html",
+        "isChunk": false,
+        "modules": 0,
+        "size": 0,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": true,
+        "isModuleAsset": false
+      },
+      {
+        "path": "list-template-list-toggle@1.0.0.js.LICENSE.txt",
+        "isChunk": false,
+        "modules": 0,
+        "size": 0,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": true,
+        "isModuleAsset": false
+      },
+      {
+        "path": "static/css/tangram-design-tokens.4d94b0b3.chunk.css.map",
+        "isChunk": false,
+        "modules": 0,
+        "size": 0,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": true,
+        "isModuleAsset": false
+      },
+      {
+        "path": "static/media/logo-tangram.532d1acc.svg",
+        "isChunk": false,
+        "modules": 0,
+        "size": 0,
+        "isInitial": false,
+        "initialLoad": false,
+        "isAsset": true,
+        "isModuleAsset": false
+      }
+    ],
+    "legacy": {
+      "dependencies": []
+    }
+  }
+  ]
+}
+

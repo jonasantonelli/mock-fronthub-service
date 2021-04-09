@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"/>
+    <meta name="theme-color" content="#000000"/>
+    
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    
+    <title>Bricks Editor</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif|Lato|Lobster|Open+Sans|Oswald|PT+Sans|Raleway|Source+Sans+Pro|Ubuntu|Roboto" rel="stylesheet"/>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/shadydom/1.1.0/shadydom.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <link href="https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/static/css/main.css" rel="stylesheet"><script src="https://front-hub-staging.rdstation.com.br/static/rd-bricks-editor/0.1.0/rd-bricks-editor%400.1.0.js"></script></head>
+
+  <body>
+    <noscript> You need to enable JavaScript to run this app. </noscript>
+    <div id="app"></div>
+    
+    <script type="text/javascript">var config={sidebar:{components:["SECTION","TEXT","COLUMN","BOX","BUTTON","IMAGE","HTML"],settings:["POPUP"]},components:{column:{background:{canHaveParallax:!1}},section:{background:{canHaveParallax:!1}},box:{background:{canHaveParallax:!1}}},onImageUpload(a){a("https://litmus.com/blog/wp-content/uploads/2018/03/ultimate-guide-to-background-images-in-email.png")},enabledFeatures:["placeholder"]};window.editor=new BricksEditor(config).render("#app"),axios.get("./template-popup.json").then((function(a){editor.setDesign(a.data)}))</script>
+  </body>
+</html>

@@ -1,0 +1,2053 @@
+{
+  "type": "page",
+  "properties": {
+    "css": "",
+    "javascriptBody": "<script type=\"text/javascript\"> </script>",
+    "javascriptHead": "<script type=\"text/javascript\"> </script>",
+    "width": 960,
+    "id": "rd-page-joq3m2nw",
+    "title": "Page title example",
+    "keywords": "some keywords words",
+    "className": "rd-page",
+    "enable_seo": true,
+    "description": "Some page description content."
+  },
+  "children": [
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "#222f3f",
+          "cover": true,
+          "type": "color",
+          "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550600173/$tw8z89jp88",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#BBBBBB",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 0
+        },
+        "id": "rd-section-joq3m2lv",
+        "className": "rd-section"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-jt7iat68",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 10,
+                  "bottom": 0,
+                  "left": 10
+                },
+                "size": 12,
+                "id": "rd-column-jt7iat69",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 30
+                    },
+                    "height": -1,
+                    "width": 100,
+                    "aspectRatioLocked": false,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550690460/$vwjopo9jte",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-joq3m2lu",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-joq3m2lw",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 6,
+                "id": "rd-column-joq3m2lx",
+                "border": {
+                  "top": true,
+                  "left": true,
+                  "color": "#000000",
+                  "right": true,
+                  "style": "none",
+                  "width": 0,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<h1 style=\"text-align: left;\"><span style=\"font-size: 46px; font-family: Ubuntu, sans-serif; color: rgb(248, 6, 82);\">Esse é o meu evento.</span></h1>",
+                    "width": 460,
+                    "id": "rd-text-joq3m2ly",
+                    "height": -1,
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<p><span style=\"font-family: Ubuntu, sans-serif; color: rgb(255, 255, 255); font-size: 28px;\"></span><span style=\"font-family: Ubuntu, sans-serif; color: rgb(255, 255, 255); font-size: 27px;\">Utilize esse espaço para chamar a atenção do seu lead.</span></p>",
+                    "width": 460,
+                    "id": "rd-text-joq3m2lz",
+                    "height": -1,
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<p><span style=\"font-size: 18px; font-family: &quot;Source Sans Pro&quot;, sans-serif; color: rgb(255, 255, 255);\">Você está a um passo mais próximo de levar sua empresa para outro patamar. Utilize gatilhos de antecipação, escassez e pertencimento.</span></p>",
+                    "width": 460,
+                    "id": "rd-text-joq3m2m0",
+                    "height": -1,
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "#222f3f",
+                  "cover": false,
+                  "type": "color",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 6,
+                "id": "rd-column-joq3m2m1",
+                "border": {
+                  "top": true,
+                  "left": true,
+                  "color": "#000000",
+                  "right": true,
+                  "style": "solid",
+                  "width": 0,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "box",
+                  "properties": {
+                    "align": "center",
+                    "background": {
+                      "color": "#101C28",
+                      "cover": false,
+                      "type": "color",
+                      "url": "",
+                      "position": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "imageOrder": "below",
+                      "imageColor": "rgba(74,144,226,0)",
+                      "parallax": null
+                    },
+                    "border": {
+                      "bottom": true,
+                      "color": "#4b5677",
+                      "left": true,
+                      "radius": 6,
+                      "right": true,
+                      "style": "solid",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 30
+                    },
+                    "padding": {
+                      "top": 30,
+                      "right": 30,
+                      "bottom": 30,
+                      "left": 30
+                    },
+                    "width": 460,
+                    "id": "rd-box-joq3m2m2",
+                    "height": "auto0",
+                    "className": "rd-box"
+                  },
+                  "children": [
+                    {
+                      "type": "text",
+                      "properties": {
+                        "align": "center",
+                        "border": {
+                          "bottom": true,
+                          "color": "#62e7fe",
+                          "left": true,
+                          "radius": 0,
+                          "right": true,
+                          "style": "none",
+                          "top": true,
+                          "width": 1
+                        },
+                        "margin": {
+                          "top": 10,
+                          "bottom": 10
+                        },
+                        "content": "<h2 style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 28px;\">Preencha com os seus dados</span></h2>",
+                        "width": 360,
+                        "id": "rd-text-joq3m2m3",
+                        "height": -1,
+                        "className": "rd-text"
+                      },
+                      "children": []
+                    },
+                    {
+                      "type": "text",
+                      "properties": {
+                        "align": "center",
+                        "border": {
+                          "bottom": true,
+                          "color": "#000000",
+                          "left": true,
+                          "radius": 0,
+                          "right": true,
+                          "style": "none",
+                          "top": true,
+                          "width": 1
+                        },
+                        "margin": {
+                          "top": 10,
+                          "bottom": 10
+                        },
+                        "content": "<p style=\"text-align: center;\"><span style=\"font-size: 14px; color: rgb(255, 255, 255); font-family: &quot;Source Sans Pro&quot;, sans-serif;\">E faça parte da lista VIP do evento.</span></p>",
+                        "width": 360,
+                        "id": "rd-text-joq3m2m4",
+                        "height": -1,
+                        "className": "rd-text"
+                      },
+                      "children": []
+                    },
+                    {
+                      "type": "form",
+                      "properties": {
+                        "align": "center",
+                        "margin": {
+                          "top": 10,
+                          "bottom": 10
+                        },
+                        "labels": {
+                          "disabled": false,
+                          "font": {
+                            "bold": false,
+                            "color": "#FFFFFF",
+                            "family": "Source Sans Pro, sans-serif",
+                            "italic": false,
+                            "size": 14
+                          },
+                          "section": "labels"
+                        },
+                        "fields": {
+                          "font": {
+                            "bold": false,
+                            "italic": false,
+                            "color": "#555555",
+                            "family": "Source Sans Pro, sans-serif",
+                            "size": 16
+                          },
+                          "background": {
+                            "color": "#ffffff",
+                            "cover": false,
+                            "type": "transparent",
+                            "url": "",
+                            "position": {
+                              "x": 0,
+                              "y": 0
+                            },
+                            "imageOrder": "below",
+                            "imageColor": "rgba(74,144,226,0)",
+                            "parallax": null
+                          },
+                          "border": {
+                            "bottom": true,
+                            "color": "#a73131",
+                            "left": true,
+                            "radius": 4,
+                            "right": true,
+                            "style": "none",
+                            "top": true,
+                            "width": 0
+                          },
+                          "shadow": {
+                            "inner": true
+                          },
+                          "columns": 1,
+                          "height": 32,
+                          "spacing": 15,
+                          "section": "fields"
+                        },
+                        "id": "rd-form-joq3m2m5",
+                        "width": 460,
+                        "height": -1,
+                        "className": "rd-form"
+                      },
+                      "children": [
+                        {
+                          "type": "fieldset",
+                          "properties": {},
+                          "children": [
+                            {
+                              "type": "text_field",
+                              "properties": {
+                                "id": "name",
+                                "name": "name",
+                                "label": "Nome",
+                                "required": true,
+                                "use_type": "STRING"
+                              },
+                              "children": []
+                            },
+                            {
+                              "type": "email_field",
+                              "properties": {
+                                "id": "email",
+                                "name": "email",
+                                "label": "Email",
+                                "required": true,
+                                "use_type": "STRING"
+                              },
+                              "children": []
+                            },
+                            {
+                              "type": "text_field",
+                              "properties": {
+                                "id": "company",
+                                "name": "company",
+                                "label": "Empresa",
+                                "required": true
+                              },
+                              "children": []
+                            },
+                            {
+                              "type": "text_field",
+                              "properties": {
+                                "id": "job_title",
+                                "name": "job_title",
+                                "label": "Cargo",
+                                "required": true,
+                                "use_type": "STRING"
+                              },
+                              "children": []
+                            },
+                            {
+                              "type": "captcha_field",
+                              "properties": {},
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "button",
+                          "properties": {
+                            "align": "center",
+                            "margin": {
+                              "top": 16,
+                              "bottom": 0
+                            },
+                            "background": {
+                              "color": "#f80652",
+                              "type": "color"
+                            },
+                            "border": {
+                              "bottom": true,
+                              "color": "#000000",
+                              "left": true,
+                              "radius": 100,
+                              "right": true,
+                              "style": "none",
+                              "top": true,
+                              "width": 0
+                            },
+                            "height": 50,
+                            "label": "MINHA PRÉ VENDA",
+                            "font": {
+                              "bold": false,
+                              "color": "#FFFFFF",
+                              "family": "Ubuntu, sans-serif",
+                              "italic": false,
+                              "size": 22
+                            },
+                            "link": {
+                              "type": "web",
+                              "href": "http://example.com",
+                              "target": "_blank",
+                              "title": "Any Title"
+                            },
+                            "type": "submit",
+                            "width": 280,
+                            "id": "rd-button-joq3m2m7",
+                            "className": "rd-button"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "transparent",
+          "cover": true,
+          "type": "transparent",
+          "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550600173/$ca9fbxb4d0r",
+          "position": {
+            "x": 0,
+            "y": 100
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#000000",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 1
+        },
+        "id": "rd-section-joq3m2m8",
+        "className": "rd-section"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 7,
+              "right": 7,
+              "bottom": 7,
+              "left": 7
+            },
+            "minHeight": 50,
+            "id": "rd-row-joq3m2m9",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "color",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 12,
+                "id": "rd-column-joq3m2ma",
+                "border": {
+                  "top": true,
+                  "left": false,
+                  "color": "#000000",
+                  "right": false,
+                  "style": "none",
+                  "width": 1,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 60,
+                      "bottom": 10
+                    },
+                    "content": "<h1 style=\"text-align: center;\"><strong style=\"font-size: 33px; font-family: Ubuntu, sans-serif;\">A TRANSFORMAÇÃO QUE O SEU EVENTO PROPORCIONA</strong></h1>",
+                    "width": 894,
+                    "id": "rd-text-joq3m2mb",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 60
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"font-size: 18px; color: rgb(17, 17, 17); font-family: Ubuntu, sans-serif;\">O nosso evento irá </span><strong style=\"font-size: 18px; color: rgb(17, 17, 17); font-family: Ubuntu, sans-serif;\">transformar </strong><span style=\"font-size: 18px; color: rgb(17, 17, 17); font-family: Ubuntu, sans-serif;\">o seu negócio. Aprenda com grandes mentes a traçar objetivos e metas para crescer e se tornar </span><strong style=\"font-size: 18px; color: rgb(17, 17, 17); font-family: Ubuntu, sans-serif;\">referência </strong><span style=\"font-size: 18px; color: rgb(17, 17, 17); font-family: Ubuntu, sans-serif;\">no seu segmento.</span></p><p style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif; font-size: 18px;\">Será um dia inteiro de </span><strong style=\"font-family: Ubuntu, sans-serif; font-size: 18px;\">palestras </strong><span style=\"font-family: Ubuntu, sans-serif; font-size: 18px;\">e </span><strong style=\"font-family: Ubuntu, sans-serif; font-size: 18px;\">workshops </strong><span style=\"font-family: Ubuntu, sans-serif; font-size: 18px;\">com quem realmente entende do assunto.</span></p>",
+                    "width": 716,
+                    "id": "rd-text-jsc43k9y",
+                    "height": "auto-25",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "#222f3f",
+          "cover": false,
+          "type": "color",
+          "url": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#000000",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 1
+        },
+        "id": "rd-section-joq3m2mw",
+        "className": "rd-section"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 54,
+            "id": "rd-row-jt7iep0q",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 12,
+                "id": "rd-column-jt7iep0r",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><strong style=\"color: rgb(255, 255, 255); font-size: 36px; font-family: Ubuntu, sans-serif;\">PALESTRANTES</strong></p>",
+                    "width": 940,
+                    "id": "rd-text-joq3m2mv",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 7,
+              "right": 7,
+              "bottom": 7,
+              "left": 7
+            },
+            "minHeight": 50,
+            "id": "rd-row-joq3m2mx",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "color",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 3,
+                "id": "rd-column-jsc3xrs0",
+                "border": {
+                  "top": true,
+                  "left": false,
+                  "color": "#000000",
+                  "right": false,
+                  "style": "none",
+                  "width": 1,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 10
+                    },
+                    "height": null,
+                    "width": 130,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$tizc9g57d9",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-jsc5vqc5",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<h3 style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif; font-size: 24px; color: rgb(255, 255, 255);\">Nome Palestrante</span></h3>",
+                    "width": 257,
+                    "id": "rd-text-jsc3xrs2",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"color: rgb(173, 196, 214); font-family: Ubuntu, sans-serif;\">Descreva o palestrante.</span></p>",
+                    "width": 257,
+                    "id": "rd-text-jsc3xrs3",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "color",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 3,
+                "id": "rd-column-joq3m2n2",
+                "border": {
+                  "top": true,
+                  "left": false,
+                  "color": "#000000",
+                  "right": false,
+                  "style": "none",
+                  "width": 1,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 10
+                    },
+                    "height": 130,
+                    "width": 130,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$ro99w8s86oe",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-joq3m2n3",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<h3 style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif; font-size: 24px; color: rgb(255, 255, 255);\">Nome Palestrante</span></h3>",
+                    "width": 257,
+                    "id": "rd-text-joq3m2n4",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"color: rgb(173, 196, 214); font-size: 16px; font-family: Ubuntu, sans-serif;\">Descreva o palestrante.</span></p>",
+                    "width": 257,
+                    "id": "rd-text-joq3m2n5",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "color",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 3,
+                "id": "rd-column-joq3m2my",
+                "border": {
+                  "top": true,
+                  "left": false,
+                  "color": "#000000",
+                  "right": false,
+                  "style": "none",
+                  "width": 1,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 10
+                    },
+                    "height": 130,
+                    "width": 130,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$ky5tws8atm",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-joq3m2mz",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<h3 style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-size: 24px; font-family: Ubuntu, sans-serif;\">Nome Palestrante</span></h3>",
+                    "width": 257,
+                    "id": "rd-text-joq3m2n0",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"font-size: 16px; font-family: Ubuntu, sans-serif; color: rgb(173, 196, 214);\">Descreva o palestrante.</span></p>",
+                    "width": 257,
+                    "id": "rd-text-joq3m2n1",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "color",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 3,
+                "id": "rd-column-joq3m2n6",
+                "border": {
+                  "top": true,
+                  "left": false,
+                  "color": "#000000",
+                  "right": false,
+                  "style": "none",
+                  "width": 1,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 10
+                    },
+                    "height": 130,
+                    "width": 130,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$8vhhhrja5is",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-joq3m2n7",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<h3 style=\"text-align: center;\"><span style=\"color: rgb(255, 255, 255); font-size: 24px; font-family: Ubuntu, sans-serif;\">Nome Palestrante</span></h3>",
+                    "width": 257,
+                    "id": "rd-text-joq3m2n8",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"font-size: 16px; font-family: Ubuntu, sans-serif; color: rgb(173, 196, 214);\">Descreva o palestrante.</span></p>",
+                    "width": 257,
+                    "id": "rd-text-joq3m2n9",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "rgba(255,255,255,1)",
+          "cover": false,
+          "type": "color",
+          "url": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#000000",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 1
+        },
+        "id": "rd-section-jsc3zbc6",
+        "className": "rd-section"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-jsc6j5w3",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 10,
+                  "bottom": 0,
+                  "left": 10
+                },
+                "size": 12,
+                "id": "rd-column-jsc6j5w4",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 10
+                    },
+                    "content": "<p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0); font-size: 36px; font-family: Ubuntu, sans-serif;\">DEPOIMENTOS</strong></p>",
+                    "width": 334,
+                    "id": "rd-text-jsc6j8a9",
+                    "height": "auto-51",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-jsc3zbc7",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 4,
+                "id": "rd-column-jsc6oo3c",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\">Nada é mais convincente do que uma prova social de um cliente satisfeito. Utilize um depoimento sincero de alguém que já provou das experiências deste evento.</span></p>",
+                    "width": 254,
+                    "id": "rd-text-jsc6p2ro",
+                    "height": "auto-46",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "height": null,
+                    "width": 210,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$pa4rufbtjj",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-jsc6suz6",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><strong style=\"font-family: Ubuntu, sans-serif; font-size: 16px;\">Nome do participante</strong><strong style=\"font-size: 16px;\">.</strong></p>",
+                    "width": 200,
+                    "id": "rd-text-jsc6um8y",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 4,
+                "id": "rd-column-jt7js8hl",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\">Nada é mais convincente do que uma prova social de um cliente satisfeito. Utilize um depoimento sincero de alguém que já provou das experiências deste evento.</span></p>",
+                    "width": 254,
+                    "id": "rd-text-jt7js8hm",
+                    "height": "auto-46",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "height": null,
+                    "width": 210,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$pa4rufbtjj",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-jt7js8hn",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><strong style=\"font-family: Ubuntu, sans-serif; font-size: 16px;\">Nome do participante</strong><strong style=\"font-size: 16px;\">.</strong></p>",
+                    "width": 200,
+                    "id": "rd-text-jt7js8ho",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 30,
+                  "bottom": 0,
+                  "left": 30
+                },
+                "size": 4,
+                "id": "rd-column-jsc3zbc8",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"font-size: 16px; font-family: Ubuntu, sans-serif;\">Nada é mais convincente do que uma prova social de um cliente satisfeito. Utilize um depoimento sincero de alguém que já provou das experiências deste evento.</span></p>",
+                    "width": 252,
+                    "id": "rd-text-jsc6p5l6",
+                    "height": "auto-46",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "image",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 10
+                    },
+                    "height": null,
+                    "width": 210,
+                    "aspectRatioLocked": true,
+                    "url": "https://d335luupugsy2.cloudfront.net/cms/files/27735/1550607568/$hp0li0iv974",
+                    "description": "",
+                    "link": {
+                      "href": "",
+                      "title": "",
+                      "target": "",
+                      "enabled": false
+                    },
+                    "id": "rd-image-jsc6szuy",
+                    "className": "rd-image"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 10,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><strong style=\"font-family: Ubuntu, sans-serif;\">Nome do participante.</strong></p>",
+                    "width": 200,
+                    "id": "rd-text-jsc6uoky",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 10,
+              "right": 10,
+              "bottom": 10,
+              "left": 10
+            },
+            "minHeight": 50,
+            "id": "rd-row-jt7jsgyg",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "middle"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 10,
+                  "bottom": 0,
+                  "left": 10
+                },
+                "size": 12,
+                "id": "rd-column-jt7jsgyh",
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "button",
+                  "properties": {
+                    "align": "center",
+                    "margin": {
+                      "top": 30,
+                      "bottom": 30
+                    },
+                    "background": {
+                      "color": "#f80652",
+                      "type": "color"
+                    },
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 100,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 0
+                    },
+                    "height": 50,
+                    "label": "Receba as novidades",
+                    "font": {
+                      "bold": false,
+                      "color": "#FFFFFF",
+                      "family": "Arial, sans-serif",
+                      "italic": false,
+                      "size": 22
+                    },
+                    "link": {
+                      "type": "web",
+                      "href": "#rd-button-joq3m2m7",
+                      "target": "_self",
+                      "title": "Any Title"
+                    },
+                    "type": "button",
+                    "width": 280,
+                    "id": "rd-button-jt7jwbxf",
+                    "className": "rd-button"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 30,
+                      "bottom": 30
+                    },
+                    "content": "<p style=\"text-align: center;\"><span style=\"color: rgb(109, 118, 129); font-family: Ubuntu, sans-serif; font-size: 14px;\">Toda estrutura é pensada para que você leve para casa ideias e conhecimento necessários para inovar práticas e gerar mais resultados</span></p>",
+                    "width": 940,
+                    "id": "rd-text-jt7jslo3",
+                    "height": "auto0",
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "properties": {
+        "background": {
+          "color": "#222f3f",
+          "cover": false,
+          "type": "color",
+          "url": "",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "imageOrder": "below",
+          "imageColor": "rgba(74,144,226,0)",
+          "parallax": null
+        },
+        "border": {
+          "bottom": true,
+          "color": "#000000",
+          "left": false,
+          "radius": 0,
+          "right": false,
+          "style": "none",
+          "top": true,
+          "width": 1
+        },
+        "id": "rd-section-joq3m2na",
+        "className": "rd-section"
+      },
+      "children": [
+        {
+          "type": "row",
+          "properties": {
+            "padding": {
+              "top": 7,
+              "right": 7,
+              "bottom": 7,
+              "left": 7
+            },
+            "minHeight": 50,
+            "id": "rd-row-joq3m2nb",
+            "className": "rd-row"
+          },
+          "children": [
+            {
+              "type": "column",
+              "properties": {
+                "alignInside": {
+                  "vertical": "top"
+                },
+                "background": {
+                  "color": "transparent",
+                  "cover": false,
+                  "type": "transparent",
+                  "url": "",
+                  "position": {
+                    "x": 0,
+                    "y": 0
+                  },
+                  "imageOrder": "below",
+                  "imageColor": "rgba(74,144,226,0)",
+                  "parallax": null
+                },
+                "padding": {
+                  "top": 0,
+                  "right": 10,
+                  "bottom": 0,
+                  "left": 10
+                },
+                "size": 12,
+                "id": "rd-column-joq3m2nc",
+                "border": {
+                  "top": true,
+                  "left": false,
+                  "color": "#000000",
+                  "right": false,
+                  "style": "none",
+                  "width": 1,
+                  "bottom": true,
+                  "radius": 0
+                },
+                "className": "rd-column"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "properties": {
+                    "align": "center",
+                    "border": {
+                      "bottom": true,
+                      "color": "#000000",
+                      "left": true,
+                      "radius": 0,
+                      "right": true,
+                      "style": "none",
+                      "top": true,
+                      "width": 1
+                    },
+                    "margin": {
+                      "top": 15,
+                      "bottom": 15
+                    },
+                    "content": "<p style=\"text-align: center; line-height: 125%;\"><span style=\"font-family: &quot;Source Sans Pro&quot;, sans-serif; font-size: 18px; color: rgb(255, 255, 255);\">[Nome da sua empresa]</span></p>",
+                    "width": 400,
+                    "id": "rd-text-joq3m2nd",
+                    "height": -1,
+                    "className": "rd-text"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
