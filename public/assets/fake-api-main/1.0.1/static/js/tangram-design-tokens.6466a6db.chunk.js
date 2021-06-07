@@ -1,0 +1,2 @@
+(this["webpackJsonp@resultadosdigitais/fake-api-main"]=this["webpackJsonp@resultadosdigitais/fake-api-main"]||[]).push([[1],{28:function(t,n,a){},29:function(t,n,a){"use strict";a.r(n);var i=a(7),e=a(1),s=a(28),c=a.n(s);function o(){const t=Object(i.a)(["\n  ","\n"]);return o=function(){return t},t}const u=Object(e.createGlobalStyle)(o(),c.a);n.default=u}}]);
+//# sourceMappingURL=tangram-design-tokens.6466a6db.chunk.js.map

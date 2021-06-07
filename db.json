@@ -1602,7 +1602,143 @@
     "legacy": {
       "dependencies": []
     }
+  },
+{
+  "id": "fake-api-main",
+  "name": "fake-api-main",
+  "version": "1.0.4",
+  "commons": {
+    "version": "4.3.0",
+    "preload": [
+      "styled-components@5.2.1",
+      "react@17.0.1",
+      "react@17.0.1/jsx-runtime",
+      "react-i18next@11.8.5",
+      "react-router-dom@5.2.0",
+      "i18next@19.8.4",
+      "react-dom@17.0.1",
+      "axios@0.21.1"
+    ],
+    "dependencies": [
+      "react@17.0.1/jsx-runtime",
+      "react-dom@17.0.1/server",
+      "axios@0.21.1",
+      "clsx@1.1.1",
+      "i18next@19.8.4",
+      "numeral@2.0.6",
+      "react@17.0.1",
+      "react-dom@17.0.1",
+      "react-hook-form@6.14.0",
+      "react-i18next@11.8.5",
+      "react-is@17.0.1",
+      "react-router-dom@5.2.0",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.2.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "events": {
+    "listeners": [],
+    "emitters": []
+  },
+  "assets": [
+    {
+      "path": "fake-api-main@1.0.4.js",
+      "isChunk": true,
+      "modules": 24,
+      "size": 1711730,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "fake-api-main@1.0.4.js.map",
+      "isChunk": true,
+      "modules": 24,
+      "size": 1711730,
+      "isInitial": true,
+      "initialLoad": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/tangram-design-tokens.7c33d223.chunk.css",
+      "isChunk": true,
+      "modules": 3,
+      "size": 18492,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/js/tangram-design-tokens.c37e232c.chunk.js",
+      "isChunk": true,
+      "modules": 3,
+      "size": 18492,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/js/tangram-design-tokens.c37e232c.chunk.js.map",
+      "isChunk": true,
+      "modules": 3,
+      "size": 18492,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "fake-api-main@1.0.4.js.LICENSE.txt",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/tangram-design-tokens.7c33d223.chunk.css.map",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/media/logo-tangram.532d1acc.svg",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "initialLoad": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    }
+  ],
+  "legacy": {
+    "dependencies": []
   }
-  ]
+}
+ 
+]
 }
 

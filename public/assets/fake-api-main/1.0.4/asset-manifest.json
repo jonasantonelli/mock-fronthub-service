@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/fake-api-main@1.0.4.js",
+    "main.js.map": "/fake-api-main@1.0.4.js.map",
+    "tangram-design-tokens.css": "/static/css/tangram-design-tokens.7c33d223.chunk.css",
+    "tangram-design-tokens.js": "/static/js/tangram-design-tokens.c37e232c.chunk.js",
+    "tangram-design-tokens.js.map": "/static/js/tangram-design-tokens.c37e232c.chunk.js.map",
+    "fake-api-main@1.0.4.js.LICENSE.txt": "/fake-api-main@1.0.4.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "static/css/tangram-design-tokens.7c33d223.chunk.css.map": "/static/css/tangram-design-tokens.7c33d223.chunk.css.map",
+    "static/media/logo-tangram.532d1acc.svg": "/static/media/logo-tangram.532d1acc.svg"
+  },
+  "entrypoints": [
+    "fake-api-main@1.0.4.js"
+  ]
+}
